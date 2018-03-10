@@ -5,14 +5,27 @@ body{
 
 .Title{
 	
+	text-decoration: underline;
+	color: #252830;
+	font-size: 1.5em;
+}
+
+.SubTitle{
 	
-	color: #7a7979;
-	vertical-align: text-top;
-	font-size: 2.2em;
+	color: #252830;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.link{
+	
 }
 
 .Centered{
 	text-align: center;
+}
+.tab{
+	margin-left: 20px;
 }
 
 .headerUnder{
@@ -76,5 +89,3 @@ body{
 	}
 	
 }
-
-
